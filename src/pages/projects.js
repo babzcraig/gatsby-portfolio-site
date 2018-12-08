@@ -3,7 +3,7 @@ import { Link, graphql } from 'gatsby'
 import styled from 'styled-components'
 
 import Layout from '../components/layout'
-import Project from '../components/Project'
+import Project from '../components/project'
 
 const ProjectsWapperEl = styled.div`
   display: flex;
